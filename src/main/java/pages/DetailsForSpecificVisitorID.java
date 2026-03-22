@@ -22,6 +22,7 @@ public class DetailsForSpecificVisitorID {
 
     // Locator This change reflect in repo 2
     This is pushed in branch 2
+    This is commit 2 by the repo 2 user in branch
 
     By firstVisitId = By.xpath("//a[@class='visitid']");
 
