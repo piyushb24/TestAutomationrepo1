@@ -20,10 +20,7 @@ public class DetailsForSpecificVisitorID {
         this.wait = new WebDriverWait(driver, Duration.ofSeconds(20));
     }
 
-    // Locator This change reflect in repo 2
-    This is pushed in branch 2
-    This is commit 2 by the repo 2 user in branch
-
+    // Locator 
     By firstVisitId = By.xpath("//a[@class='visitid']");
 
     // -------- Dropdown CLICK locators --------
